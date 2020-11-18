@@ -1,0 +1,78 @@
+body
+{
+padding-top:0px;
+text-align:right
+}
+sideNav
+{
+	width=:0rem;
+	height:0vh
+	
+}
+.img-fluid
+{
+	max-width: 30%;
+	height: auto;
+}
+.layout-navbar-fixed .wrapper .content-wrapper
+{
+	margin-right: 267px;
+	width:999px
+	
+	
+}
+:not(.layout-fixed) .main-sidebar {
+    height: inherit;
+    min-height: 100%;
+    position: fixed;
+    padding-top: 150px;
+}
+footer .main-footer {
+   position:fixed;
+margin-right:225px;
+top:200px;
+left:0
+
+}
+
+.card-title {
+    float: right;
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin: 0;
+	color:#00f
+}
+.reg-2 .card-title {
+    
+	color:#f00;
+
+}
+.fa-plus-square::before{
+	padding-left:10px;
+	color:#ffc107 
+
+}
+.fa-save::before {
+	padding-left:10px;
+	color:#ffc107 
+
+
+}
+.card-header > .card-tools{
+	
+	   float:  left;
+
+}
+
+.nav-tabs-justified > li > a {
+  margin-left: absolute;
+  margin-right: auto;
+}
+.card-body span
+{
+	
+	color:blue;
+	align:center;
+	
+}
+ 
